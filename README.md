@@ -5,6 +5,7 @@
   <title>私のWebサイト</title>
 </head>
 <body>
+  <nav>メニュー</nav>
   <header>
     <h1>ようこそ！</h1>
     <nav>
