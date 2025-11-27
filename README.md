@@ -23,8 +23,8 @@
   </section>
 
   <section id="works">
-    <h2>作品紹介</h2>
-    <p>最近作ったデザインやWebアプリを紹介します。</p>
+    <h3>壁に耳あり、障子に目あり</h3>
+    <p>どこでもんまこあり</p>
 
   <section id="content">
     <h2>アポ</h2>
