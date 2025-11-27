@@ -12,6 +12,7 @@
       <a href="#about">自己紹介</a> |
       <a href="#works">作品</a> |
       <a href="#contact">連絡</a>
+      <a href="#wow">ワオ！</a>
     </nav>
   </header>
 
