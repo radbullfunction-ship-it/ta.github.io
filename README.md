@@ -17,8 +17,9 @@
   </header>
 
   <section id="about">
-    <h2>自己紹介</h2>
-    <p>こんにちは。私はWebデザイナーの〇〇です。</p>
+    <h2>カモネギー</h2>
+    <p>おおぐそてんぱい</p>
+    <p>おおぐそてんぱい</p>
   </section>
 
   <section id="works">
