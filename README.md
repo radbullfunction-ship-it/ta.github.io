@@ -23,7 +23,7 @@
   </section>
 
   <section id="works">
-    <h3>壁に耳あり、障子に目あり</h3>
+    <h2>壁に耳あり、障子に目あり</h2>
     <p>どこでもんまこあり</p>
 
   <section id="content">
