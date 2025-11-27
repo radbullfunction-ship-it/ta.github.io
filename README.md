@@ -31,24 +31,3 @@
 </body>
 </html>
 
-body {
-  font-family: "Helvetica", sans-serif;
-  background-color: #f5f5f5;
-  color: #333;
-  margin: 40px;
-}
-
-header, footer {
-  text-align: center;
-  background-color: #0077cc;
-  color: white;
-  padding: 10px;
-  border-radius: 8px;
-}
-
-h1, h2 {
-  color: #005fa3;
-}
-
-<link rel="stylesheet" href="style.css">
-
